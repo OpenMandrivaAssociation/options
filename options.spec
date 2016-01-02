@@ -1,7 +1,10 @@
+%{?_javapackages_macros:%_javapackages_macros}
+
 Name:           options
 Version:        1.2
-Release:        5%{?dist}
+Release:        5.1
 Summary:        Library for managing sets of JVM properties to configure an app or library
+Group:		Development/Java
 License:        ASL 2.0
 URL:            https://github.com/headius/%{name}
 Source0:        https://github.com/headius/%{name}/archive/%{name}-%{version}.zip
