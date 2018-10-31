@@ -2,7 +2,7 @@
 
 Name:           options
 Version:        1.2
-Release:        5.1
+Release:        5.2
 Summary:        Library for managing sets of JVM properties to configure an app or library
 Group:		Development/Java
 License:        ASL 2.0
