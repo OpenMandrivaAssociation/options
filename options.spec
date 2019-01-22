@@ -1,7 +1,7 @@
 %{?_javapackages_macros:%_javapackages_macros}
 
 Name:           options
-Version:        1.2
+Version:        1.4
 Release:        5.2
 Summary:        Library for managing sets of JVM properties to configure an app or library
 Group:		Development/Java
