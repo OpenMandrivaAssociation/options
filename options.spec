@@ -7,7 +7,7 @@ Summary:        Library for managing sets of JVM properties to configure an app 
 Group:		Development/Java
 License:        ASL 2.0
 URL:            https://github.com/headius/%{name}
-Source0:        https://github.com/headius/%{name}/archive/%{name}-%{version}.zip
+Source0:        https://github.com/headius/%{name}/archive/%{name}-%{name}-%{version}.tar.gz
 Source1:        http://www.apache.org/licenses/LICENSE-2.0.txt
 BuildArch:      noarch
 BuildRequires:  maven-local
